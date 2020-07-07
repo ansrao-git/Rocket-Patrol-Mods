@@ -9,7 +9,7 @@
 // Implement a new timing/scoring mechanism that adds time to the clock for successful hits (25)
 
 
-// "use strict";
+
 
 let config = {
     type: Phaser.CANVAS,
